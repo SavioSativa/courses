@@ -1,0 +1,3 @@
+##Description
+
+JavaScript is a functional programming language that can now do an incredible amount of things, however, at its heart, JavaScript was created to interact with HTML. jQuery was introduced to simplify the amount of code required to achieve some of this functionality as well as utilize the CSS selector engine to target HTML elements. This module will introduce you to DOM manipulation and events with jQuery.

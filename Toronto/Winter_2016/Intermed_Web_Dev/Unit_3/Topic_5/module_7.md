@@ -1,0 +1,3 @@
+##Summary
+
+jQuery provides a more simplified means for manipulating the HTML document than using just pure JavaScript. Manipulating the DOM is part of writing dynamic webpages that can change and alter their content depending on what the user interacts with on the webpage. There are many jQuery functions that can manipulate even more parts of the document than were described in this module. The important lesson from the module is to be aware of the type of ways you can manipulate a document and seeking out the possible jQuery functions that would achieve some of the more specific manipulations you are attempting to achieve.
