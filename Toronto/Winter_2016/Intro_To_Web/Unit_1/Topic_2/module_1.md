@@ -1,0 +1,9 @@
+<section class="module-section" name="Git Review">&nbsp;</section>
+
+## Git Review
+
+**Git** is a tool that developers use to work collaboratively on large projects in a very efficient and easy-to-manage environment. Before explaining what git is, we'll explain the problem it is solving.
+
+> Say you have a team of 5 people working on a full web application with dozens of files of code that range from front end code, to backened code, styles and html, etc. It's important in a development team that everyone can add to the code base of the project so that everyone has the same code even though it's all written by different people on different computers. <p>Without git, the only real way to do this is to share the files with each other:</p> <p>You can email them to each other or use a USB key as options. The problem is only further complicated once you have the new files. Sometimes changes can just be small additions across a few files. So now you have to go through each file and compare your code to the new code, check for differences and possible conflicts. Then, you have to copy the new code into your code properly so that you don't destabilize your code base causing it to crash. If anyone of the 5 people misses a step or doesn't do the same exact same thing, then you risk everyone having a slightly different code base, which over time, could only deviate more and more. This is tedious at best!</p>
+
+Git essentially does all this work for you. Through use of git's tools you can achieve all this with a few simple commands, git does all the comparisons and *code merging* for you. It also keeps track of all your changes so that if you write some new code that causes your code base to crash, you can always *revert* back to previous version of your code to try find where you made the mistake when everything was still working properly.
